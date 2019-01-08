@@ -1,0 +1,10 @@
+[package]
+name = "offerzen-rust-example"
+version = "0.1.0"
+authors = ["Thomas Thorburn"]
+edition = "2018"
+
+[dependencies]
+csv-to-json = { path = "./csv-to-json" }
+
+
