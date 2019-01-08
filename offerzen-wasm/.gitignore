@@ -3,5 +3,4 @@ Cargo.lock
 bin/
 pkg/
 wasm-pack.log
-www/
 target/**/*
