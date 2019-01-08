@@ -60,6 +60,6 @@ npm start
 now navigate to the url webpack gives you in the output. Mine was http://localhost:8081/
 
 
-Paste a csv (with headers) into the first text box, and hit jsonify. (You can find some example csv in the repo, example.csv) Verify the output is valid json. Pretty cool, right? (Can you tell I am a backend developer?)
+Paste a csv (with headers) into the first text box, and hit jsonify. (You can find some example csv in the repo, example.csv) Verify the output is valid json. Pretty cool, right? (Can you tell I don't really do front end?)
 
 6. Tinker with it. 
